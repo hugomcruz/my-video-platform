@@ -1,6 +1,0 @@
-RewriteEngine on
-RewriteRule xml/(.*)$ main.php?type=xml&api=$1 [QSA,L]
-RewriteRule json/(.*)$ main.php?type=json&api=$1 [QSA,L]
-
-RewriteRule roku/(.*)$ roku.php?api=$1 [QSA,L]
-
