@@ -11,5 +11,6 @@ I decided to create my own personal "Channel" to be easy to visulize these video
 And after buying a Roku for each TV in the house and offering to my partens and my in laws, everyone can now view the videos. But, due to lack of time, because I have a very full time busy job, this platform has some limitations. 
 
 
+# Next steps
 
 
